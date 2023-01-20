@@ -1,0 +1,90 @@
+{
+  "main": {
+    "name": "Dhruv Sharma",
+    "occupation": "Final year B.Tech CSE from VIT Bhopal University",
+    "description": "",
+    "image": "profilepic.png",
+    "bio": "AS A STUDENT ASPIRING TO BE A SOFTWARE ENGINEER, I AM A HIGHLY MOTIVATED AND DEDICATED INDIVIDUAL WITH A PASSION FOR TECHNOLOGY AND PROGRAMMING. I AM CURRENTLY PURSUING A DEGREE IN COMPUTER SCIENCE, AND HAVE GAINED A STRONG FOUNDATION IN PROGRAMMING LANGUAGE JAVA. I AM ALSO PROFICIENT IN WEB DEVELOPMENT USING TECHNOLOGIES SUCH AS HTML, CSS, AND JAVASCRIPT. I AM ALWAYS EAGER TO LEARN AND STAY CURRENT WITH THE LATEST TECHNOLOGIES AND INDUSTRY TRENDS. ",
+    "contactmessage": "Get in touch with me",
+    "email": "dhruv2k24@gmail.com",
+    "phone": "+91 7888734621",
+    "address": {
+      "street": "Qtr 4 , sector 32 A",
+      "city": "Chandigarh",
+      "state": "",
+      "zip": "160030"
+    },
+    "website": "https://drive.google.com/file/d/1VOcdMQ1hN5FbWT0bsvCJJYMSMHrmuCUe/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1VOcdMQ1hN5FbWT0bsvCJJYMSMHrmuCUe/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhruv-sharma-profile/",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/Dhruvsharmagithub",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "VIT Bhopal University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Sept 2023",
+        "description": "CGPA 8.55"
+      }
+    ],
+    "work": [
+      {
+        "company": "HAVELLS CRI BANGLORE",
+        "title": "Intern",
+        "years": "Jan 2023 - Present",
+        "description": "SDE Intern in the Software Department."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Data Analysis",
+        "level": "90%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "B-FIT PROJECT - EXHIBITION 1",
+        "user": "THIS APP IS BASED ON FITNESS AND HEALTHY LIFE . IT DEALS WITH THE HEALTH OF THE USER . IT GIVES KNOWLEDGE ABOUT THE EXERCISES AND THE SUPPLEMENTS "
+      },
+      {
+        "text": "K KART - PROJECT EXHIBITION 2",
+        "user": "THIS APP IS BASED ON GROCERY ORDERING . IT PROVIDES INFORMATION AND USER- REVIEWS OF THE ITEMS."
+      },
+      {
+        "text": "FACE MASK DETECTOR & TEMPERATURE SENSOR - EPICS PROJECT ",
+        "user": "An IoT based project detects whether a person is wearing a mask or not"
+      }
+    ]
+  }
+}
